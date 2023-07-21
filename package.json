@@ -1,0 +1,36 @@
+ {
+  "name": "extendit",
+  "version": "0.0.1",
+  "description": "ExtendIt a package helps you to improve your code with alot functions &amp; methods and your customs for easy use",
+  "main": ".dist/src/index.js",
+  "scripts": {
+    "start": "node .dist/src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ofction/ExtendIt.git"
+  },
+  "keywords": [
+    "util",
+    "utils",
+    "tool",
+    "tools",
+    "extend",
+    "extends",
+    "extendit",
+    "ExtendIt",
+    "ofction"
+  ],
+  "author": "ofction",
+  "license": "Apache-2.0",
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "https://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/ofction/ExtendIt/issues"
+  },
+  "homepage": "https://github.com/ofction/ExtendIt#readme"
+}
