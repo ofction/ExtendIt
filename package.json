@@ -1,4 +1,4 @@
- {
+{
   "name": "extendit",
   "version": "0.0.1",
   "description": "ExtendIt a package helps you to improve your code with alot functions &amp; methods and your customs for easy use",
@@ -32,5 +32,11 @@
   "bugs": {
     "url": "https://github.com/ofction/ExtendIt/issues"
   },
-  "homepage": "https://github.com/ofction/ExtendIt#readme"
+  "homepage": "https://github.com/ofction/ExtendIt#readme",
+  "files": [
+    ".dist",
+    "README.md",
+    "LICENSE",
+    "package.json"
+  ]
 }

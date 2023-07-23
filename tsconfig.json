@@ -16,7 +16,6 @@
 	},
 	"exclude": [
 		"node_modules",
-		".dist",
-    "index.ts"
+		".dist"
 	]
 }

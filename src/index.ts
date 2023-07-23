@@ -1,5 +1,7 @@
-// index.ts
-export * from './extends/String'; // Import the file where the extended methods are defined
-/*
-let text = 'Hello World';
-console.log(text.startFrom(1)); */// Output: "ello World" (without space)
+/** 
+ * Export All Extends
+ */
+export * from './extends/String';
+export * from './extends/Number';
+export * from './extends/Array';
+export * from './extends/Object';
